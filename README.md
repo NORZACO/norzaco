@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mwamuzi-shadrick-73a411153/](https://www.linkedin.com/in/mwamuzi-shadrick-73a411153/)
 
-- ⚡ Fun fact **o**
+<!-- - ⚡ Fun fact **o** -->
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
