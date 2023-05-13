@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Mwamuzi Shadrick</h1>
 <h3 align="center">A passionate Backend developer from Norway</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=norzaco&label=Profile%20views&color=0e75b6&style=flat" alt="norzaco" /> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=norzaco)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=norzaco&label=Profile%20views&color=0e75b6&style=flat" alt="norzaco" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=norzaco" alt="norzaco" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mwamuziscode" target="blank"><img src="https://img.shields.io/twitter/follow/mwamuziscode?logo=twitter&style=for-the-badge" alt="mwamuziscode" /></a> </p>
-
+ -->
 - 🔭 I’m currently working on [Docker-express](https://github.com/NORZACO/portfolio_project.git)
 
 - 🌱 I’m currently learning **Docker, Deployments**
