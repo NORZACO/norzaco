@@ -9,9 +9,10 @@
 
 <p align="left"> <a href="https://twitter.com/mwamuziscode" target="blank"><img src="https://img.shields.io/twitter/follow/mwamuziscode?logo=twitter&style=for-the-badge" alt="mwamuziscode" /></a> </p>
  -->
-- 🔭 I’m currently working on [Docker-express](https://github.com/NORZACO/portfolio_project.git)
+- 🔭 I’m currently working on **Express + Docker, Deployments, AWS DynamoDB, Cyclic.sh** and  [Portfolio]([https://github.com/NORZACO/portfolio_project.git](https://www.mwamuzidev.com/))
+<!-- [Docker-express](https://github.com/NORZACO/portfolio_project.git) -->
 
-- 🌱 I’m currently learning **Docker, Deployments**
+- 🌱 I’m currently learning **Docker, Deployments, AWS DynamoDB, Cyclic.sh**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NORZACO](https://github.com/NORZACO)
 
