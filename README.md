@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mwamuzi Shadrick</h1>
-<h3 align="center">A passionate Backend developer from Norway</h3>
+<h3 align="center">A passionate Backend developer from || Norway</h3>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=norzaco)
 
