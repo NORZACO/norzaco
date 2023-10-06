@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on **Express + Docker, Deployments, AWS DynamoDB, Cyclic.sh** and  [Portfolio]([https://github.com/NORZACO/portfolio_project.git](https://www.mwamuzidev.com/))
 <!-- [Docker-express](https://github.com/NORZACO/portfolio_project.git) -->
 
-- 🌱 I’m currently learning **Docker, Deployments, AWS DynamoDB, Cyclic.sh**
+- 🌱 I’m currently learning **Prisma, Deployments,React, **
 
 - 👨‍💻 All of my projects are available at [https://github.com/NORZACO](https://github.com/NORZACO)
 
