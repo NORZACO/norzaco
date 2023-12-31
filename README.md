@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on **Express, Deployments,  [Portfolio]([https://github.com/NORZACO/portfolio_project.git](https://www.mwamuzidev.com/))
 <!-- [Docker-express](https://github.com/NORZACO/portfolio_project.git) -->
 
-- 🌱 I am currently in the process of learning Prisma, Deployments, and React.
+- 🌱 I am currently in the process of learning Azure.
 
 - 👨‍💻 All of my projects are available at [https://github.com/NORZACO](https://github.com/NORZACO)
 
